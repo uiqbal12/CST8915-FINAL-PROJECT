@@ -118,8 +118,8 @@ Look for the `EXTERNAL-IP` column on the `store-front` and `store-admin` service
 
 | Service | URL |
 |---|---|
-| Store-Front (customers) | `http://<store-front-EXTERNAL-IP>` |
-| Store-Admin (employees) | `http://<store-admin-EXTERNAL-IP>` |
+| Store-Front (customers) | `http://http://4.236.53.191/` |
+| Store-Admin (employees) | `http://4.249.113.92/` |
 
 ### 6. Verify the application
 
