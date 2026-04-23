@@ -198,7 +198,7 @@ Each microservice repository contains a GitHub Actions workflow (`.github/workfl
 
 ## Demo Video
 
-> 📹 [Watch the demo on YouTube](#) ← *Replace with your YouTube link*
+> 📹 [Watch the demo on YouTube](https://youtu.be/JMqPODOY6sw) 
 
 The video covers:
 1. **Architecture walkthrough** — design decisions and component overview
