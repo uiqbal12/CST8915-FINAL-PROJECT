@@ -1,6 +1,7 @@
 # Best Buy Store — Cloud-Native Microservices Application
 
 > **CST8915 Final Project** — A cloud-native, microservices-based e-commerce application deployed on Azure Kubernetes Service (AKS).
+ **Usama Iqbal 040777763 - Winter 2026**
 
 ---
 
